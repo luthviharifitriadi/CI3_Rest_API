@@ -28,9 +28,18 @@ HTTP
 * HTTP => Hyepertext Transfer Protocol
 * URL => Uniform Resource Locator
   * Alamat dari sebuah resource yang dapat diakses di internet
+**************************
+Kode Status
+**************************
+* 200 - success
+* 404 - Not Found
+* 500 - Server Error
+**************************
+HTTP Method/Verb
+**************************
 * GET Meminta sesuatu
-* POST mengirimkan request beserta data didalam form
-
-
+* POST Menambah Data
++ PUT Mengubah Data
+* DELETE Menghapus Data
 
 

@@ -9,6 +9,8 @@ Ilustrasi
 *******************
 * API adalah Penghubung
 * REST API adalah aturannya
+* ada Request & Response
+* data yang dikirim/diterima berupa JSON
 
 **************************
 Changelog and New Features

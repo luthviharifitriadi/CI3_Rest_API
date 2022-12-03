@@ -54,6 +54,20 @@ Syarat RESTFul API
 JSON
 **************************
 * JSON => Javascript Object Notation
-* 
+* Berisi Key selalu dibungkus menggunakan " "  dan Value {"key" = "value"}
+* Tipe data dari value yang boleh disimpan pada json
+  * BOOLEAN  - true/false
+  * ARRAY - ["value1", "value2",...]
+  * STRING - teks/unicode, dibungkus menggunakan " "
+  * object - var mahasiswa {"key" = "value"}
+  * number - integer / float
+  * null- null
+* dibuat bersarkan object pada javascript
+* digunakan juga untuk file konfigurasi(tidak disarankan)
+* ekstensi file json .json
+* JSON tidak memilik method
+
+ 
+
 
 

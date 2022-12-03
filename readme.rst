@@ -45,9 +45,15 @@ HTTP Method/Verb
 + PUT Mengubah Data
 * DELETE Menghapus Data
 **************************
-RESTFul API
+Syarat RESTFul API 
 **************************
 * Menggunakan HTTP method yang benar
 * URI/endpoints-nya menggunakan kata benda, bukan kata kerja
 * stateless
+**************************
+JSON
+**************************
+* JSON => Javascript Object Notation
+* 
+
 

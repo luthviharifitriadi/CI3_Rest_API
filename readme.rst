@@ -18,6 +18,9 @@ REST API
 * singkatan REST => Representasional State Transfer
 * Gaya Perancangan / Arshitectural Style
 * arsitekur Stateless
+		* Setiap Request HTTP dilakukan secara terisolasi
+		* Server Tidak menyimpan state apapun mengenai sesi dari client
+		* setiap request dari client harus berisi semua informasi yang dibutuhkan server termasuk informasi otentikasi
 * diciptakan oleh By.Roy Fielding.,Phd
 * Protokol Hampir selalu menggunakan HTTP
 * Memungkinkan Interaksi antar mesin

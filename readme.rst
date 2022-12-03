@@ -5,12 +5,10 @@ APA ITU REST API
 "Sebuah Sistem Perangkat Lunak yang dibuat untuk mendukung interapobilitas/interaksi antar 2 aplikasi yang berbeda melalui jaringan."
 
 *******************
-Release Information
+Ilustrasi
 *******************
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+* API adalah Penghubung
+* REST API adalah aturannya
 
 **************************
 Changelog and New Features

@@ -44,5 +44,10 @@ HTTP Method/Verb
 * POST Menambah Data
 + PUT Mengubah Data
 * DELETE Menghapus Data
-
+**************************
+RESTFul API
+**************************
+* Menggunakan HTTP method yang benar
+* URI/endpoints-nya menggunakan kata benda, bukan kata kerja
+* stateless
 
